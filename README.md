@@ -1,5 +1,4 @@
-# nathrock.github.io
-This is a list of stuff
+# Nathaniel A. Throckmorton, Ph.D.
 - [research](research.md)
 - teaching
 - service
