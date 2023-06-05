@@ -1,4 +1,4 @@
-**"[A Simple Explanation of Countercyclical Uncertainty](Papers/BPRT-uncertainty.pdf)"**
+**"[A Simple Explanation of Countercyclical Uncertainty](_pdf/BPRT-uncertainty.pdf)"**
 
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332), [Mike Plante](https://sites.google.com/site/michaelplanteecon/), and [Alex Richter](http://www.alexrichterecon.com/)
 
