@@ -1,4 +1,4 @@
-**"[Valuation Risk Revalued](../pdf/DRT_ValuationRisk.pdf)"**  
+**"[Valuation Risk Revalued](DRT_ValuationRisk.pdf)"**  
 with [Oliver de Groot](https://sites.google.com/site/oliverdegroot/) and [Alex Richter](http://www.alexrichterecon.com/)  
 [Quantitative Economics](https://doi.org/10.3982/QE1779), May 2022, Volume 13, Pages 723-759  
 **[FRB Dallas Working Paper 1808](https://doi.org/10.24149/wp1808r1)**
