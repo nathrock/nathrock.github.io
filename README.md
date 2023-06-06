@@ -1,9 +1,11 @@
 **Recent Working Papers**
-1. **October 2022: "[A Simple Explanation of Countercyclical Uncertainty](papers/BPRT-uncertainty.md)"**  
+1. **October 2022**  
+**"[A Simple Explanation of Countercyclical Uncertainty](papers/BPRT-uncertainty.md)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332), [Mike Plante](https://sites.google.com/site/michaelplanteecon/), and [Alex Richter](http://www.alexrichterecon.com/)  
 [FRB Dallas Working Paper 2109](https://doi.org/10.24149/wp2109), July 2021
 
-2. **July 2022: "[The Matching Function and Nonlinear Business Cycles](papers/BRT-nonlinearities.md)"**  
+2. **July 2022**
+**"[The Matching Function and Nonlinear Business Cycles](papers/BRT-nonlinearities.md)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
 [FRB Dallas Working Paper 2201](https://doi.org/10.24149/wp2201), February 2022
 
