@@ -19,9 +19,17 @@ with [Tyler Atkinson](https://www.dallasfed.org/research/economists/atkinson.asp
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
 [European Economic Review](https://doi.org/10.1016/j.euroecorev.2021.103752), July 2021, Volume 136
 
-4. **"[Uncertainty Shocks in a Model of Effective Demand: Comment](papers/DRT_comment.md)"**  
+4. **"[The Zero Lower Bound and Estimation Accuracy](papers/ART_Estimation.md)"**  
+with [Tyler Atkinson](https://www.dallasfed.org/research/economists/atkinson.aspx) and [Alex Richter](http://www.alexrichterecon.com/)  
+[Journal of Monetary Economics](https://doi.org/10.1016/j.jmoneco.2019.06.007), November 2020, Volume 115, Pages 249-264
+
+5. **"[Uncertainty Shocks in a Model of Effective Demand: Comment](papers/DRT_comment.md)"**  
 with [Oliver de Groot](https://sites.google.com/site/oliverdegroot/) and [Alex Richter](http://www.alexrichterecon.com/)  
 [Econometrica](https://doi.org/10.3982/ECTA15405), July 2018, Volume 86, Pages 1513-1526
+
+6. **"[The Zero Lower Bound and Endogenous Uncertainty](papers/PRT_Uncertainty.md)"**  
+with [Mike Plante](https://sites.google.com/site/michaelplanteecon/), and [Alex Richter](http://www.alexrichterecon.com/)  
+[Economic Journal](http://dx.doi.org/10.1111/ecoj.12445), June 2018, Volume 128, Pages 1730-1757
 
 
 **Other Working Papers**
