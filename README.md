@@ -1,7 +1,7 @@
 **Recent Working Papers**
 1. **"[A Simple Explanation of Countercyclical Uncertainty](papers/BPRT-uncertainty.md)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332), [Mike Plante](https://sites.google.com/site/michaelplanteecon/), and [Alex Richter](http://www.alexrichterecon.com/)
-2. **"[The Matching Function and Nonlinear Business Cycles](papers/BRT-nonlinearities.pdf)"**  
+2. **"[The Matching Function and Nonlinear Business Cycles](papers/BRT-nonlinearities.md)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
 
 **Published Papers**
@@ -10,5 +10,7 @@ with [Oliver de Groot](https://sites.google.com/site/oliverdegroot/) and [Alex R
 2. blah
 
 **Other Working Papers**
-1. **"[The Business Cycle Mechanics of Search and Matching Models](papers/BRT-RBC-Mechanics.pdf)"**  
+1. **"[The Business Cycle Mechanics of Search and Matching Models](papers/BRT-RBC-Mechanics.md)"**  
+with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
+2. **"[COVID-19: A View from the Labor Market](papers/BRT-covid19.md)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
