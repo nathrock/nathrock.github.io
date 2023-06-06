@@ -1,5 +1,5 @@
 **"[The Business Cycle Mechanics of Search and Matching Models](BRT-RBC-Mechanics.pdf)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
-**[FRB Dallas Working Paper 2026](https://doi.org/10.24149/wp2026)**
+[FRB Dallas Working Paper 2026](https://doi.org/10.24149/wp2026), August 2020
 
 > This paper provides new insights into the business cycle mechanics of search and matching models. We develop a novel identification scheme based on the matching elasticity that allows these models to perfectly match a range of labor market moments. Our estimated linear model also matches several non-targeted moments including the Beveridge curve and the decomposition of inflows and outflows of unemployment. A structural decomposition reveals job separation rate shocks explain 40% of unemployment volatility. The nonlinear version of our model generates state-dependent dynamics that produce empirically consistent fluctuations in output growth uncertainty, 37% of which stem from separation rate shocks.

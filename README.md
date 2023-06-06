@@ -60,8 +60,28 @@ with [Alex Richter](http://www.alexrichterecon.com/) and [Todd Walker](https://e
 [Computational Economics](http://dx.doi.org/10.1007/s10614-013-9399-2), December 2014, Volume 44, Pages 445-476
 
 **Other Working Papers**
-1. **"[The Business Cycle Mechanics of Search and Matching Models](papers/BRT-RBC-Mechanics.md)"**  
-with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)
-2. **"[COVID-19: A View from the Labor Market](papers/BRT-covid19.md)"**  
-with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)
+1. **August 2020**  
+**"[The Business Cycle Mechanics of Search and Matching Models](papers/BRT-RBC-Mechanics.md)"**  
+[FRB Dallas Working Paper 2026](https://doi.org/10.24149/wp2026), August 2020
+with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
+[FRB Dallas Working Paper 2026](https://doi.org/10.24149/wp2026), August 2020
 
+2. **April 2020**  
+**"[COVID-19: A View from the Labor Market](papers/BRT-covid19.md)"**  
+with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
+[FRB Dallas Working Paper 2010](https://doi.org/10.24149/wp2010), April 2020
+
+3. **May 2018**  
+**"[A New Way to Quantify the Effect of Uncertainty](papers/RT_macro_uncertainty.md)"**  
+with [Alex Richter](http://www.alexrichterecon.com/)  
+[FRB Dallas Working Paper 1705](https://doi.org/10.24149/wp1705r1), February  2018
+
+4. **February 2017**  
+**"[Are Nonlinear Methods Necessary at the Zero Lower Bound?](papers/RT_NonlinearMethods.md)"**  
+with [Alex Richter](http://www.alexrichterecon.com/)  
+[FRB Dallas Working Paper 1606](https://www.dallasfed.org/research/papers/2016/wp1606), November  2016
+
+5. **December 2012**  
+**"[Income Inequality and Current Account Imbalances](papers/KLRRT_Inequality.md)"**  
+with [Mike Kumhof](http://michaelkumhof.weebly.com/), [Claire Lebarz](https://www.linkedin.com/in/clairelebarz/), [Romain Ranciere](https://rranciere.academia.edu/), and [Alex Richter](http://www.alexrichterecon.com/)  
+[IMF Working Paper No. 12/8](http://www.imf.org/external/pubs/cat/longres.aspx?sk=25606.0), January 2012
