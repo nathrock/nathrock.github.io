@@ -7,7 +7,8 @@ with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) a
 **Published Papers**
 1. **"[Valuation Risk Revalued](papers/DRT_ValuationRisk.md)"**  
 with [Oliver de Groot](https://sites.google.com/site/oliverdegroot/) and [Alex Richter](http://www.alexrichterecon.com/)  
-2. blah
+2. **"[Cyclical Net Entry and Exit](papers/BRT_EntryExit.md)"**  
+with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
 
 **Other Working Papers**
 1. **"[The Business Cycle Mechanics of Search and Matching Models](papers/BRT-RBC-Mechanics.md)"**  
