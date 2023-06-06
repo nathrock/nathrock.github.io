@@ -1,5 +1,5 @@
-**"[A Simple Explanation of Countercyclical Uncertainty](BPRT-uncertainty.pdf)"**  
-with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332), [Mike Plante](https://sites.google.com/site/michaelplanteecon/), and [Alex Richter](http://www.alexrichterecon.com/)  
-**[FRB Dallas Working Paper 2109](https://doi.org/10.24149/wp2109)**
+**"[Cyclical Net Entry and Exit](BRT_EntryExit.pdf)"**  
+with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
+**[FRB Dallas Working Paper 2018](https://doi.org/10.24149/wp2018r1)**
 
-> This paper documents that labor search and matching frictions generate countercyclical uncertainty because the inherent nonlinearity in the flow of new matches makes employment uncertainty increasing in the number of people searching for work. Quantitatively, this mechanism is strong enough to explain uncertainty and real activity dynamics, including their correlation. Through this lens, uncertainty fluctuations are endogenous responses to changes in real activity that neither affect the severity of business cycles nor warrant policy intervention, in contrast with leading theories of the interaction between uncertainty and real activity dynamics.
+> This paper examines how the interplay between cyclical net entry and exit of firms and search and matching frictions affect business cycle dynamics. We show cyclical net entry and exit reallocates inputs across firms and destroys jobs in recessions, which amplifies and skews business cycle dynamics. The model matches the volatility and skewness of real activity, the fast rise and slow decline in unemployment that occurs in recessions, and the counter-cyclical variation in macroeconomic uncertainty. Cyclical net entry and exit generates a 20% increase in volatility, 40% increase in skewness, and 55% increase in the welfare cost of business cycles.
