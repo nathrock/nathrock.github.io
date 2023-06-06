@@ -31,6 +31,29 @@ with [Oliver de Groot](https://sites.google.com/site/oliverdegroot/) and [Alex R
 with [Mike Plante](https://sites.google.com/site/michaelplanteecon/), and [Alex Richter](http://www.alexrichterecon.com/)  
 [Economic Journal](http://dx.doi.org/10.1111/ecoj.12445), June 2018, Volume 128, Pages 1730-1757
 
+7. **"[Forward Guidance and the State of the Economy](papers/KRT_Forward_Guidance.md)"**  
+with [Benjamin Keen](http://benjaminkeen.oucreate.com/) and [Alex Richter](http://www.alexrichterecon.com/)  
+[Economic Inquiry](http://dx.doi.org/10.1111/ecin.12466), October 2017, Volume 55, Pages 1593-1624
+
+8. **"[Is Rotemberg Pricing Justified by Macro Data?](papers/KRT_Forward_Guidance.md)"**  
+with [Alex Richter](http://www.alexrichterecon.com/)  
+[Economics Letters](http://dx.doi.org/10.1016/j.econlet.2016.10.011), December 2016, Volume 149, Pages 44-48
+
+9. **"[The Consequences of an Unknown Debt Target](papers/RT_debttargets.md)"**  
+with [Alex Richter](http://www.alexrichterecon.com/)  
+[European Economic Review](http://dx.doi.org/10.1016/j.euroecorev.2015.05.002), August 2015, Volume 78, Pages 76-96
+
+10. **"[The Zero Lower Bound, the Dual Mandate, and Unconventional Dynamics](papers/GKRT_ZLB.md)"**  
+with [William Gavin](https://research.stlouisfed.org/econ/gavin/jp/), [Benjamin Keen](http://benjaminkeen.oucreate.com/) and [Alex Richter](http://www.alexrichterecon.com/)  
+[Journal of Economic Dynamics and Control](http://dx.doi.org/10.1016/j.jedc.2015.03.007), June 2015, Volume 55, Pages 14-38
+
+11. **"[The Zero Lower Bound: Frequency, Duration, and Numerical Convergence](papers/RT_ZLBconvergence.md)"**  
+with [Alex Richter](http://www.alexrichterecon.com/)  
+[The B.E. Journal of Macroeconomics](http://dx.doi.org/10.1515/bejm-2013-0185), January 2015, Volume 15, Pages 157-182
+
+12. **"[Accuracy, Speed and Robustness of Policy Function Iteration](papers/RTW_Numerical.md)"**  
+with [Alex Richter](http://www.alexrichterecon.com/) and [Todd Walker](https://economics.indiana.edu/about/faculty/walker-todd.html)  
+[Computational Economics](http://dx.doi.org/10.1007/s10614-013-9399-2), December 2014, Volume 44, Pages 445-476
 
 **Other Working Papers**
 1. **"[The Business Cycle Mechanics of Search and Matching Models](papers/BRT-RBC-Mechanics.md)"**  
