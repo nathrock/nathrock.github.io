@@ -4,5 +4,6 @@ with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332), 
 2. blah
 
 **Published Papers**
-1. blah
+1. **"[Valuation Risk Revalued](md/DRT-ValuationRisk.md)"**  
+with [Oliver de Groot](https://sites.google.com/site/oliverdegroot/) and [Alex Richter](http://www.alexrichterecon.com/)  
 2. blah
