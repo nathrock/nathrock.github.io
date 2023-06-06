@@ -1,6 +1,6 @@
-**"[Valuation Risk Revalued](DRT_ValuationRisk.pdf)"**  
+**"[Uncertainty Shocks in a Model of Effective Demand: Comment](DRT_comment.pdf)"**  
 with [Oliver de Groot](https://sites.google.com/site/oliverdegroot/) and [Alex Richter](http://www.alexrichterecon.com/)  
-[Quantitative Economics](https://doi.org/10.3982/QE1779), May 2022, Volume 13, Pages 723-759  
-**[FRB Dallas Working Paper 1808](https://doi.org/10.24149/wp1808r1)**
+[Econometrica](https://doi.org/10.3982/ECTA15405), July 2018, Volume 86, Pages 1513-1526
+**[FRB Dallas Working Paper 1706](https://www.dallasfed.org/research/papers/2017/wp1706.aspx)**
 
-> This paper shows the success of valuation risk—time-preference shocks in Epstein-Zin utility—in resolving asset pricing puzzles rests sensitively on the way it is introduced. The specification used in the literature violates several desirable properties of recursive preferences because the weights in the Epstein-Zin time-aggregator do not sum to one. When we revise the specification in a simple asset pricing model the puzzles resurface. However, when estimating a sequence of increasingly rich models, we find valuation risk under the revised specification consistently improves the ability of the models to match asset price and cash-flow dynamics.
+> Basu and Bundick (2017) show an intertemporal preference volatility shock has meaningful effects on real activity in a New Keynesian model with Epstein and Zin (1991) preferences. We show when the distributional weights on current and future utility in the Epstein-Zin time-aggregator do not sum to 1, there is an asymptote in the responses to such a shock with unit intertemporal elasticity of substitution. In the Basu-Bundick model, the intertemporal elasticity of substitution is set near unity and the preference shock only hits current utility, so the sum of the weights differs from 1. We show when we restrict the weights to sum to 1, the asymptote disappears and preference volatility shocks no longer have large effects. We examine several different calibrations and preferences as potential resolutions with varying degrees of success.
