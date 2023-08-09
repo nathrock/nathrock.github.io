@@ -1,4 +1,4 @@
-**"[Is Rotemberg Pricing Justified by Macro Data?](KRT_Forward_Guidance.pdf)"**  
+**"[Is Rotemberg Pricing Justified by Macro Data?](RT_Pricing_Comparison.pdf)"**  
 with [Alex Richter](http://www.alexrichterecon.com/)  
 [Economics Letters](http://dx.doi.org/10.1016/j.econlet.2016.10.011), December 2016, Volume 149, Pages 44-48
 
