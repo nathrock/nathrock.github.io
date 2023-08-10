@@ -39,7 +39,7 @@ with [Mike Plante](https://sites.google.com/site/michaelplanteecon/), and [Alex 
 with [Benjamin Keen](http://benjaminkeen.oucreate.com/) and [Alex Richter](http://www.alexrichterecon.com/)  
 [Economic Inquiry](http://dx.doi.org/10.1111/ecin.12466), October 2017, Volume 55, Pages 1593-1624
 
-8. **"[Is Rotemberg Pricing Justified by Macro Data?](papers/KRT_Forward_Guidance.md)"**  
+8. **"[Is Rotemberg Pricing Justified by Macro Data?](papers/RT_Pricing_Comparison.md)"**  
 with [Alex Richter](http://www.alexrichterecon.com/)  
 [Economics Letters](http://dx.doi.org/10.1016/j.econlet.2016.10.011), December 2016, Volume 149, Pages 44-48
 
