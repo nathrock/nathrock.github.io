@@ -83,3 +83,5 @@ with [Alex Richter](http://www.alexrichterecon.com/)
 **"[Income Inequality and Current Account Imbalances](papers/KLRRT_Inequality.md)"**  
 with [Mike Kumhof](http://michaelkumhof.weebly.com/), [Claire Lebarz](https://www.linkedin.com/in/clairelebarz/), [Romain Ranciere](https://rranciere.academia.edu/), and [Alex Richter](http://www.alexrichterecon.com/)  
 [IMF Working Paper No. 12/8](http://www.imf.org/external/pubs/cat/longres.aspx?sk=25606.0), January 2012
+
+$$x + y = z$$
