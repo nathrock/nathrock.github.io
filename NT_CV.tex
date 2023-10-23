@@ -1,0 +1,230 @@
+% Essential packages and commands
+\documentclass[10pt,letterpaper,en-US]{article}
+%   Dimensions and margins
+\usepackage[paperwidth=8.5in,paperheight=11.0in,left=1.0in,right=1.0in,top=1.0in,bottom=1.0in]{geometry}
+%   Lists
+\usepackage{enumitem}
+%   Links
+\usepackage{hyperref}
+%   New commands
+%       name
+\newcommand{\name}{Nathaniel A. Throckmorton, Ph.D.}
+%       itemrow: first column left aligned, second column right aligned
+\newcommand{\itemrow}[2]
+{\begin{tabular*}{\linewidth}{l@{\extracolsep{\fill}}r}
+	#1 & #2 \\
+\end{tabular*}}
+
+% Formatting (not essential, i.e., could comment out)
+%   Font and alignment
+\usepackage{tgpagella}
+\usepackage[T1]{fontenc}
+\raggedright
+%   Date
+\usepackage{datetime2}
+\makeatletter
+\newcommand{\monthyeardate}{\DTMenglishmonthname{\@dtm@month} \@dtm@year}
+\makeatother
+%   Links and pdf properties
+\hypersetup{colorlinks, urlcolor=blue, pdftitle={Curriculum Vitae}, pdfauthor={\name}, pdfsubject={\monthyeardate}}
+%   Color
+\usepackage{color}
+\definecolor{darkgray}{gray}{0.60}
+\definecolor{black}{gray}{0}
+%   Header/footer
+\usepackage{fancyhdr}
+\fancypagestyle{hdrftr}{
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0.0pt}
+    \renewcommand{\footrulewidth}{0.0pt}
+    \fancyfoot[C]{\large\color{darkgray} \monthyeardate}
+    \fancyfoot[R]{\large\color{black}{\thepage}}}
+\pagestyle{hdrftr}
+%   Section titles
+\usepackage{titlesec}
+\newcommand{\Bheadfont}{\fontsize{12pt}{\baselineskip}\selectfont}
+\titleformat{\section}[hang]{\normalfont\sc\Bheadfont}{\thesection\hskip0.618em}{0em}{}
+\titlespacing\section{0pt}{8pt plus 4pt minus 2pt}{5pt plus 2pt minus 2pt}
+%   Lists
+\setitemize{label={},parsep=0pt,itemsep=0.04in,leftmargin=.25in}
+%   Tables
+\setlength{\tabcolsep}{0in}
+
+\begin{document}
+% Hide footer on first page
+% \thispagestyle{empty}
+
+{\Large \textbf{\name}}
+\vspace{4pt}
+\hrule
+\vspace{-4pt}
+\begin{tabbing}
+    \hspace{3.25in}         	\=  \hspace{3.25in}  \= \kill
+    \href{https://www.wm.edu/as/economics/}{Economics Department} 	\>  Phone: +1(757)221-1318                     \\
+    William \& Mary             \>  Email: \href{mailto:nat@wm.edu}{nat@wm.edu}          \\
+    P.O. Box 8795  				\>  Websites: \href{https://nathrockmorton.people.wm.edu/}{Personal}, \href{https://scholar.google.com/citations?user=OYdRwzYAAAAJ}{Google Scholar}, \href{https://ideas.repec.org/f/pth237.html}{IDEAS}, \href{https://orcid.org/0000-0002-9671-757X}{ORCiD} \\
+    Williamsburg, VA~~23187	    \>  Citizenship: U.S.A.
+\end{tabbing}
+
+\section*{Current Position}
+\begin{itemize}
+	\item \itemrow{Tang Associate Professor, William \& Mary}{Fall 2020--Present}
+\end{itemize}
+
+\section*{Education}
+\begin{itemize}
+	\item
+    \itemrow{Ph.D. Economics, Indiana University}{January 2014}
+	\item
+    \itemrow{M.A. Economics, Indiana University}{December 2009}
+	\item
+    \itemrow{B.S. Mathematics and Economics, University of Wisconsin--Stevens Point}{May 2006}
+\end{itemize}
+
+\section*{Refereed Publications}
+\begin{enumerate}
+\item ``A Simple Explanation of Countercyclical Uncertainty'' with Joshua Bernstein, Mike Plante, and Alex Richter, \emph{American Economic Journal: Macroeconomics}, forthcoming
+\item ``Valuation Risk Revalued'' with Oliver de Groot and Alex Richter, \emph{Quantitative Economics}, May 2022, Volume 13, Pages 723-759
+\item ``Complementarity and Macroeconomic Uncertainty'' with Tyler Atkinson, Mike Plante, and Alex Richter, \emph{Review of Economic Dynamics}, April 2022, Volume 44, Pages 225-243
+\item ``Cyclical Net Entry and Exit'' with Joshua Bernstein and Alex Richter, \emph{European Economic Review}, July 2021, Volume 136
+\item ``The Zero Lower Bound and Estimation Accuracy'' with Tyler Atkinson and Alex Richter, \emph{Journal of Monetary Economics}, November 2020, Volume 115, Pages 249-264
+\item ``Uncertainty Shocks in a Model of Effective Demand: Comment'' with Oliver de Groot and Alex Richter, \emph{Econometrica}, July 2018, Volume 86, Pages 1513-1526
+\item ``The Zero Lower Bound and Endogenous Uncertainty'' with Mike Plante and Alex Richter, \emph{Economic Journal}, June 2018, Volume 128, Pages 1730-1757
+\item ``Forward Guidance and the State of the Economy'' with Ben Keen and Alex Richter, \emph{Economic Inquiry}, October 2017, Volume 55, Pages 1593–1624
+\item ``Is Rotemberg Pricing Justified by Macro Data?'' with Alex Richter, \emph{Economics Letters}, December 2016, Volume 149, Pages 44-48
+\item ``The Consequences of an Unknown Debt Target'' with Alex Richter, \emph{European Economic Review}, August 2015, Volume 78, Pages 76-96
+\item ``The Zero Lower Bound, the Dual Mandate, and Unconventional Dynamics'' with Bill Gavin, Ben Keen, and Alex Richter, \emph{Journal of Economic Dynamics and Control}, June 2015, Volume 55, Pages 14-38
+\item ``The Zero Lower Bound: Frequency, Duration, and Numerical Convergence'' with Alex Richter, \emph{The B.E. Journal of Macroeconomics}, January 2015, Volume 15, Pages 157-182
+\item ``Accuracy, Speed and Robustness of Policy Function Iteration'' with Alex Richter and Todd Walker, \emph{Computational Economics}, December 2014, Volume 44, Pages 445-476
+\end{enumerate}
+
+\section*{Other Publications}
+\begin{itemize}
+\item ``Job vacancy, unemployment relationship clouds ‘soft landing’ prospects'' with Alex Richter, \emph{Dallas Fed Economics}, February 2023
+\item ``Entry, Exit of Firms Amplify the Business Cycle'' with Joshua Bernstein and Alex Richter, \emph{Dallas Fed Economics}, July 2020
+\item ``The Production Process Drives Fluctuations in Output and Uncertainty'' with Tyler Atkinson, Mike Plante, and Alex Richter, \emph{Dallas Fed Economics}, June 2020
+\item ``COVID-19’s Unprecedented Impact Alters U.S. Labor Market'' with Joshua Bernstein and Alex Richter, \emph{Dallas Fed Economics}, June 2020
+\item ``Fed's Effective Lower Bound Constraint on Monetary Policy Created Uncertainty'' with Mike Plante and Alex Richter, \emph{Economic Letter}, November 2017, Volume 12, Number 11
+\end{itemize}
+
+\section*{Teaching Experience}
+
+\begin{itemize}
+
+\item \textbf{William \& Mary:} Macro Seminar (Spring 2019, Fall 2021, Fall 2023), International Macro (Fall 2014, Fall 2023), Advanced Macro (Fall 2017, Fall 2019, Spring 2022, Spring 2023), Intermediate Macro (Fall 2014--Spring 2020, Fall 2021--Spring 2023), Independent Study (Spring 2015, Spring 2017, Spring 2020, Summer 2022)
+\item \textbf{Society for Computational Economics:} An Introduction to Nonlinear Solution and Estimation Techniques (June 2022)
+\item \textbf{Bank of Japan:} Nonlinear Solution and Estimation Methods Mini-course (March 2018)
+\item \textbf{University of St Andrews:} Nonlinear Solution and Estimation Methods Mini-course (March 2017)
+\item \textbf{DePauw University:} Statistics (Spring 2014), Introduction to Economics (Fall 2013, Spring 2014), Money and Banking (Fall 2013)
+\item \textbf{Auburn University:} Money and Banking (Summer 2013)
+\item \textbf{Indiana University:} Money and Banking (Fall 2012, Spring 2013), Intermediate Macro (Summer 2012), Policy Function Iteration Mini-course (with Alex Richter, March 2012), Intro to Macro (Fall 2010), Intro to Micro (Spring 2010/2011/2012), MATLAB for Economists Mini-course (August 2010)
+\end{itemize}
+
+\section*{Previous Positions}
+\begin{itemize}\allowbreak
+\item \itemrow{Assistant Professor, William \& Mary}{Fall 2014--Spring 2020}
+\item \itemrow{Visiting Assistant Professor, Economics Department, DePauw University}{Spring 2014}
+\item \itemrow{Visiting Instructor, Economics Department, DePauw University}{Fall 2013}
+\item \itemrow{Visiting Scholar, Federal Reserve Bank of St. Louis}{July 2013}
+\item \itemrow{Visiting Instructor, Economics Department, Auburn University}{Summer 2013}
+\item \itemrow{Associate Instructor, Economics Department, Indiana University}{Spring 2010--Spring 2013}
+\item \itemrow{Visiting Economist, The Joint Committee on Taxation, U.S. Congress}{Aug.--Dec. 2011 and Aug. 2012}
+\item Research Assistant, Economics Department, Indiana University\\
+        \itemrow{\hspace{.25in}Eric Leeper, Todd Walker, and George von Furstenberg}{Summers 2010, 2011, and 2012}
+\item \itemrow{Teaching Assistant, Economics Department, Indiana University}{Fall 2008--Fall 2009}
+\item \itemrow{Marketing Analyst, Renaissance Learning, Inc.}{July 2006--July 2008}
+\item \itemrow{Research Assistant, Mathematics Department, UW--Stevens Point}{Summer 2005}
+\item \itemrow{Research Assistant, Central Wisconsin Economic Research Bureau (CWERB)}{June 2003--August 2005}
+\end{itemize}
+\newpage
+
+\section*{Working Papers}
+\begin{itemize}
+\item ``The Matching Function and Nonlinear Business Cycles'' with Joshua Bernstein and Alex Richter
+\item ``COVID-19: A View from the Labor Market'' with Joshua Bernstein and Alex Richter
+\item ``The Business Cycle Mechanics of Search and Matching Models'' with Joshua Bernstein and Alex Richter
+\item ``A New Way to Quantify the Effect of Uncertainty'' with Alex Richter
+\item ``Are Nonlinear Methods Necessary at the Zero Lower Bound?'' with Alex Richter
+\item ``Income Inequality and Current Account Imbalances'' with Michael Kumhof, Claire Lebarz, Romain Ranciere, and Alex Richter
+\end{itemize}
+
+\section*{Professional Service}
+\begin{itemize}
+\item \textbf{Editorial Board:} \emph{Computational Economics} (2023-Present)
+\item \textbf{Advisory Council:} Society for Computational Economics (2022-2024)
+\item \textbf{Program Committee:} Annual Symposium of the Society for Nonlinear Dynamics \& Econometrics (SNDE 2018, 2019, 2022, 2023); International Conference of Computing in Economics and Finance (CEF 2021, 2022)
+\item \textbf{Referee Service:} \emph{Review of Economic Studies; AEJ: Economic Policy; Review of Economics and Statistics; Journal of Monetary Economics; Journal of the European Economic Association; Economic Journal; Review of Economic Dynamics; Journal of Money, Credit and Banking; Journal of Applied Econometrics; European Economic Review; Journal of Business \& Economic Statistics; Journal of Economic Dynamics \& Control; Economics Bulletin; International Journal of Central Banking; Economics Letters; Economic Modelling; Economic Inquiry; Oxford Bulletin of Economics and Statistics; Journal of Macroeconomics; Macroeconomic Dynamics; Economic Theory; International Finance; Studies in Nonlinear Dynamics \& Econometrics; Computational Economics; The Oxford Handbook of Computational Economics and Finance; Applied Economics; LABOUR}
+\item \textbf{Member:} American Economic Assoc., Econometric Society, SNDE, Society for Computational Econ.
+\end{itemize}
+
+\section*{Grants, Fellowships, and Awards}
+\begin{itemize}
+\item \itemrow{Tang Associate Fellowship, Economics Department, William \& Mary}{Fall 2021--Spring 2024}
+\item \itemrow{Coco Faculty Fellowship, William \& Mary}{Fall 2020--Spring 2021}
+\item \itemrow{Travel Grant (\$2,700) \\ Center for International Research on the Japanese Economy, Univ. of Tokyo}{Summer 2019}
+\item \itemrow{International Travel Grant (\$500) \\ Reves Center for International Studies, William \& Mary}{Fall 2014, Spring 2018, Summer 2019}
+\item \itemrow{Tang Assistant Fellowship, Economics Department, William \& Mary}{Fall 2017--Summer 2018}
+\item \itemrow{Research Computing Allocation (\$24,374)\\
+Extreme Science and Engineering Discovery Environment (XSEDE)}{July 2017-June 2018}
+\item \itemrow{Seminar Development Grant, Economics Department, William \& Mary}{Summer 2017}
+\item \itemrow{Summer Research Award, William \& Mary}{Summers 2015 and 2017}
+\item \itemrow{W. Phillip Saunders Award for Best Associate Instructor \\
+Economics Department, Indiana Univ.}{Spring 2013}
+\item \itemrow{Graduate Fellowship, Economics Department, Indiana Univ.}{Fall 2008--Spring 2013}
+\item \itemrow{Kenneth W. Boylan Scholarship, Mathematics Department, UW--Stevens Point}{Fall 2005}
+\item \itemrow{Distinguished Student Award, College of Letters and Science, UW--Stevens Point}{Spring 2005}
+\item \itemrow{John C. Seramur Scholarship, Division of Business and Economics, UW--Stevens Point}{Spring 2005}
+\end{itemize}
+\newpage
+
+\section*{Research Presentations}
+\begin{itemize}
+\item \textbf{2023:} Computing in Econ. and Finance, Universit\'{e} C\^{o}te d'Azur; Virginia Commonwealth Univ.; Seminar; North Carolina State Univ., Spring Macro Workshop
+\item \textbf{2022:} Liberal Arts Macro Workshop, Middlebury College; Computing in Econ. and Finance, Southern Methodist Univ.; Midwest Macro, Utah State Univ.; Brownbag Lunch Talk, Bank of Canada; SNDE, Virtual
+\item \textbf{2021:} Southern Econ. Assoc., Houston; Seminar, UNC--Chapel Hill; Liberal Arts Macro Workshop, Univ. of Richmond; Society for Economic Dynamics, Univ. of Minnesota; Intl. Assoc. for Applied Econometrics, Erasmus School of Economics; Computing in Econ. and Finance, Keio Univ.
+\item \textbf{2020:} Seminar, Bank of Finland
+\item \textbf{2019:} SNDE, Dallas Fed; Seminar, Univ. of Tokyo; Seminar, Keio Univ.; Computing in Econ. and Finance, Carleton Univ.; Seminar, Univ. of Washington
+\item \textbf{2018:} Midwest Macro, Vanderbilt Univ.; SITE: Asset Pricing Theory and Computation, Stanford Univ.; Society for Economic Dynamics, ITAM, Mexico City; Seminar, Richmond Fed
+\item \textbf{2017:} Liberal Arts Macro Workshop, Davidson College; Computing in Econ. and Finance, Fordham Univ.; CEPR Macro Modeling and Model Comparison Network, Goethe Univ. Frankfurt; Seminar, NC State Univ.; Seminar, Univ. of Glasgow; Seminar, Univ. of St Andrews
+\item \textbf{2016:} Midwest Macro, Kansas City Fed; American Econ. Assoc., San Francisco
+\item \textbf{2015:} Quantitative Macro Workshop, Reserve Bank of Australia; Southern Econ. Assoc., New Orleans; Computing in Econ. and Finance, Taipei; Georgetown Center for Econ. Research Biennial Conf., Washington, D.C.; Midwest Macro, Washington Univ.; Seminar, William \& Mary
+\item \textbf{2014:} Southern Econ. Assoc., Atlanta; Seminar, Dallas Fed; Dynare Conf., Bank of France; Seminar, Richmond Fed; Western Econ. Assoc. Intl., Denver; Computing in Econ. and Finance, Oslo; Midwest Macro, Univ. of Missouri; Midwest Econ. Assoc., Evanston; Seminar, Bentley Univ.; Seminar, Federal Reserve Board; Seminar, William \& Mary; Seminar, Carleton College; Seminar, Wesleyan Univ.
+\item \textbf{2013:} Southern Econ. Assoc., Tampa; Seminar, St. Louis Fed; Computing in Econ. and Finance, Vancouver; Seminar, Atlanta Fed; Jordan River Conf., Indiana Univ.; Midwest Econ. Assoc., Columbus
+\item \textbf{2012:} Midwest Macro, Univ. of Notre Dame
+\item \textbf{2011:} Jordan River Conf., Indiana Univ.
+\end{itemize}
+
+\section*{Public Talks}
+\begin{itemize}
+    \item \itemrow{``COVID-19 and the U.S. Economy: A Booster Shot'' \\ Osher Lifelong Learning Institute at William \& Mary}{April 1, 2021}
+    \item \itemrow{``COVID-19 and the U.S. Economy'' \\ Osher Lifelong Learning Institute at William \& Mary}{November 19, 2020}
+    \item \itemrow{``Mathematics and Macroeconomics'', UW--Stevens Point}{November 5, 2020}
+\end{itemize}
+
+\section*{Advising Experience}
+\begin{itemize}
+    \item \itemrow{Honors Thesis Advisor, Economics Department, William \& Mary  \\
+    Emily Martell, ``Comparison of Global Solution Methods to a ZLB Model''}{Summer 2018--Spring 2019}
+    \item \itemrow{Student/Faculty Research Grant Advisor \\
+     Economics Department, William \& Mary}{Summers 2015, 2017, and 2018}
+    \item \itemrow{Honors Thesis Advisor, CAMS, William \& Mary  \\
+    Darwin Chen, ``Interactions between Fiscal and Monetary Policies''}{Summer 2016--Spring 2017}
+    \item \itemrow{Economics Major Advisor, Economics Department, William \& Mary}{Fall 2015--Present}
+\end{itemize}
+
+\newpage
+
+\section*{Other Service}
+\begin{itemize}
+    \item \itemrow{Admissions Policy Advisory Committee Member, William \& Mary}{Fall 2023--Present}
+    \item \itemrow{Freshman and Transfer Student Advisor, Arts \& Sciences, William \& Mary}{Fall 2016--Present}
+    \item \itemrow{Search Committee Chair, Economics Department, William \& Mary}{Fall 2022}
+    \item \itemrow{Sustainability, Carbon Working Group Chair, William \& Mary}{Fall 2021--Fall 2022}
+    \item \itemrow{Sustainability, Carbon Credits Working Group Chair, William \& Mary}{Fall 2019--Spring 2020}
+    \item \itemrow{Search Committee Member, Economics Department, William \& Mary}{Falls 2016, 2017, 2018, 2019}
+    \item \itemrow{Sustainability, Tribe Carbon Fund Faculty Advisor, William \& Mary}{2019}
+    \item \itemrow{Economics Seminar Coordinator, Economics Department, William \& Mary}{2019}
+    \item \itemrow{Sustainability, Energy \& Emissions Working Group Member, William \& Mary}{Spring 2018}
+\end{itemize}
+
+\end{document}
