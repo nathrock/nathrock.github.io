@@ -55,7 +55,7 @@ with [Alex Richter](http://www.alexrichterecon.com/)
 with [Alex Richter](http://www.alexrichterecon.com/) and [Todd Walker](https://economics.indiana.edu/about/faculty/walker-todd.html)  
 <em>[Computational Economics](http://dx.doi.org/10.1007/s10614-013-9399-2)</em>, December 2014, Volume 44, Pages 445-476
 
-**Other Working Papers**
+**Working Papers**
 1. **New August 2020**  
 **"[The Business Cycle Mechanics of Search and Matching Models](papers/BRT-RBC-Mechanics.md)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
