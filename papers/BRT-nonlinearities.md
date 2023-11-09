@@ -1,5 +1,7 @@
 **"[The Matching Function and Nonlinear Business Cycles](BRT-nonlinearities.pdf)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
-[FRB Dallas Working Paper 2201](https://doi.org/10.24149/wp2201), February 2022
+<em>Journal of Money, Credit and Banking</em>, accepted  
+[FRB Dallas Working Paper 2201](https://doi.org/10.24149/wp2201), February 2022  
+[Online Appendix](BRT-nonlinearities-appendix.pdf)  
 
 > The Cobb-Douglas matching function is ubiquitous in labor search and matching models, even though it imposes a constant matching elasticity that is unlikely to hold empirically. To examine the implications of this discrepancy, this paper uses a general constant returns to scale matching function to derive conditions that show how the cyclicality of the matching elasticity affects the shape of the job finding rate as a function of productivity and amplifies or dampens nonlinear labor market dynamics. It then shows that modest variation in the matching elasticity, consistent with recent estimates, significantly affects higher-order moments and optimal policy. This motivates research that can provide greater clarity on the matching function specification.
