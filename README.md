@@ -1,7 +1,7 @@
 **Published Papers**
 1. **"[The Matching Function and Nonlinear Business Cycles](papers/BRT-nonlinearities.md)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
-<em>Journal of Money, Credit and Banking</em>, accepted
+<em>[Journal of Money, Credit and Banking](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.13115)</em>, forthcoming
 
 1. **"[A Simple Explanation of Countercyclical Uncertainty](papers/BPRT-uncertainty.md)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332), [Mike Plante](https://sites.google.com/site/michaelplanteecon/), and [Alex Richter](http://www.alexrichterecon.com/)  
