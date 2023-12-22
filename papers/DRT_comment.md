@@ -1,6 +1,6 @@
 **"[Uncertainty Shocks in a Model of Effective Demand: Comment](DRT_comment.pdf)"**  
 with [Oliver de Groot](https://sites.google.com/site/oliverdegroot/) and [Alex Richter](http://www.alexrichterecon.com/)  
-[Econometrica](https://doi.org/10.3982/ECTA15405), July 2018, Volume 86, Pages 1513-1526  
+<em>[Econometrica](https://doi.org/10.3982/ECTA15405)</em>, July 2018, Volume 86, Pages 1513-1526  
 [FRB Dallas Working Paper 1706](https://www.dallasfed.org/research/papers/2017/wp1706.aspx)  
 [Online Appendix](DRT_comment_appendix.pdf)
 

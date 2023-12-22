@@ -1,6 +1,6 @@
 **"[Cyclical Net Entry and Exit](BRT_EntryExit.pdf)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
-[European Economic Review](https://doi.org/10.1016/j.euroecorev.2021.103752), July 2021, Volume 136  
+<em>[European Economic Review](https://doi.org/10.1016/j.euroecorev.2021.103752)</em>, July 2021, Volume 136  
 [FRB Dallas Working Paper 2018](https://doi.org/10.24149/wp2018r1)
 
 > This paper examines how the interplay between cyclical net entry and exit of firms and search and matching frictions affect business cycle dynamics. We show cyclical net entry and exit reallocates inputs across firms and destroys jobs in recessions, which amplifies and skews business cycle dynamics. The model matches the volatility and skewness of real activity, the fast rise and slow decline in unemployment that occurs in recessions, and the counter-cyclical variation in macroeconomic uncertainty. Cyclical net entry and exit generates a 20% increase in volatility, 40% increase in skewness, and 55% increase in the welfare cost of business cycles.

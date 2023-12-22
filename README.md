@@ -17,7 +17,7 @@ with [Tyler Atkinson](https://www.dallasfed.org/research/economists/atkinson.asp
 
 1. **"[Cyclical Net Entry and Exit](papers/BRT_EntryExit.md)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
-<em>[European Economic Review](https://doi.org/10.1016/j.euroecorev.2021.103752)v, July 2021, Volume 136
+<em>[European Economic Review](https://doi.org/10.1016/j.euroecorev.2021.103752)</em>, July 2021, Volume 136
 
 1. **"[The Zero Lower Bound and Estimation Accuracy](papers/ART_Estimation.md)"**  
 with [Tyler Atkinson](https://www.dallasfed.org/research/economists/atkinson.aspx) and [Alex Richter](http://www.alexrichterecon.com/)  

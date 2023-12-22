@@ -1,6 +1,6 @@
 **"[The Zero Lower Bound and Endogenous Uncertainty](PRT_Uncertainty.pdf)"**  
 with [Mike Plante](https://sites.google.com/site/michaelplanteecon/) and [Alex Richter](http://www.alexrichterecon.com/)  
-[Economic Journal](http://dx.doi.org/10.1111/ecoj.12445), June 2018, Volume 128, Pages 1730-1757  
+<em>[Economic Journal](http://dx.doi.org/10.1111/ecoj.12445)</em>, June 2018, Volume 128, Pages 1730-1757  
 [FRB Dallas Working Paper 1405](http://www.dallasfed.org/research/papers/2014/wp1405.aspx)  
 [Online Appendix](PRT_Uncertainty_WebAppendix.pdf)
 

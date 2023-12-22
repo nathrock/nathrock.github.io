@@ -1,5 +1,5 @@
 **"[Is Rotemberg Pricing Justified by Macro Data?](RT_Pricing_Comparison.pdf)"**  
 with [Alex Richter](http://www.alexrichterecon.com/)  
-[Economics Letters](http://dx.doi.org/10.1016/j.econlet.2016.10.011), December 2016, Volume 149, Pages 44-48
+<em>[Economics Letters](http://dx.doi.org/10.1016/j.econlet.2016.10.011)</em>, December 2016, Volume 149, Pages 44-48
 
 > Structural models used to study monetary policy often include sticky prices. Calvo pricing is more common but Rotemberg pricing has become popular due to its computational advantage. To determine whether the data supports that change, we estimate a nonlinear New Keynesian model with a zero lower bound (ZLB) constraint and each type of sticky prices. The models produce similar parameter estimates and the filtered shocks are nearly identical when the Fed was  not constrained, but the Rotemberg model has a higher marginal data density and it endogenously generates more volatility at the ZLB, which helps explain data from 2008-2011.
