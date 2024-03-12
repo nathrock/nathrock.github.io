@@ -15,4 +15,4 @@
 - Testing latex out of line
   $$x + \log{y} = \exp{z} + \frac{a}{b}$$
   
-  $$x + y = z$$ 
+  $$\max_x x^2$$ 
