@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "7c6d9525fc1266e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b639be5d183eb6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "042cfc2900f05c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "toc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08e3df0f40892bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3deebc5b8886f043",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e41e018b8c7ee66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab2da921fb05df86",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1550d0b22cae2a8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb480a63ee5c0f8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "584eaffad7f54af1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a4fcf4145e532ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "toc.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cac82a3b228276c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "toc.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "168bb0338fb8a3f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7a1ce5676845f42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "toc.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "042cfc2900f05c28",
+  "lastOpenFiles": [
+    "Cake Eating.md",
+    "Anaconda.md",
+    "toc.md",
+    "Introduction.md",
+    "Geometric Series.md"
+  ]
+}
