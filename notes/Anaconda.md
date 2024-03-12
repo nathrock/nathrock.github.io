@@ -12,4 +12,4 @@
 - Update Python: 
 
 - Testing latex
-- $x + \log{y} = \exp{z} + \frac{a}{b}$ 
+- $$x + \log{y} = \exp{z} + \frac{a}{b}$$ 
