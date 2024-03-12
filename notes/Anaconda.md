@@ -1,0 +1,12 @@
+- Install and download https://www.anaconda.com/
+- OS specific things
+	- Windows
+		- hit the `windows` key → enter `environment` → choose from `settings` → `edit environment variables for your account` → select `Path` variable → `Edit` → `New`
+		- Disable old python if it exists in `Manage app execution aliases`
+		- install python packages, e.g., `pip.exe install fredapi` 
+		- set environmental variables, e.g., `$Env:FRED_API_KEY="ea57f055178218b4350c66a2f5a0ab3b"`
+		- View environmental variables, `$Env:FRED_API_KEY` 
+- Update anaconda and python: 
+	- `conda update conda` 
+	- `conda update python` 
+- Update Python: 
