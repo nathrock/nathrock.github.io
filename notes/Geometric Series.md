@@ -1,3 +1,4 @@
+Back to [Table of Contents](toc.md) 
 # Geometric Series
 
 A geometric series is

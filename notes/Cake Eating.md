@@ -1,4 +1,4 @@
-
+Back to [Table of Contents](toc.md) 
 # Cake eating problem
 
 A cake eater is endowed with a cake that never spoils. They choose a piece of cake, $c_t$, and the remaining size of the cake, $k_t$, to maximize present value lifetime utility, keeping in mind that the cake is finite.
