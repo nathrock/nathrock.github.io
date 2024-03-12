@@ -11,6 +11,8 @@
 	- `conda update python` 
 - Update Python: 
 
-- Test math in line $x + y = z$
-- Testing latex out of line 
-  $$x + \log{y} = \exp{z} + \frac{a}{b}$$ 
+- Test math in line $$x + y = z$$
+- Testing latex out of line
+  $$x + \log{y} = \exp{z} + \frac{a}{b}$$
+  
+  $$x + y = z$$ 
