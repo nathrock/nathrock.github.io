@@ -1,4 +1,4 @@
-- Install and download https://www.anaconda.com/
+- Install and download [Anaconda](https://www.anaconda.com/)
 - OS specific things
 	- Windows
 		- hit the `windows` key → enter `environment` → choose from `settings` → `edit environment variables for your account` → select `Path` variable → `Edit` → `New`
@@ -10,3 +10,6 @@
 	- `conda update conda` 
 	- `conda update python` 
 - Update Python: 
+
+- Testing latex
+- $x + \log{y} = \exp{z} + \frac{a}{b}$ 
