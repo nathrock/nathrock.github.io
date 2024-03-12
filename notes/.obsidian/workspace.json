@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cake Eating.md",
+                "file": "Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cake Eating.md",
+                "file": "Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cake Eating.md",
+                "file": "Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cake Eating.md"
+                "file": "Data.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "042cfc2900f05c28",
   "lastOpenFiles": [
+    "data.pdf",
     "Data.md",
     "Geometric Series.md",
+    "Cake Eating.md",
     "Introduction.md",
     "toc.md",
-    "data.pdf",
-    "Cake Eating.md",
     "Cake.md",
     "Cake-Eating.md",
     "Anaconda.md"
