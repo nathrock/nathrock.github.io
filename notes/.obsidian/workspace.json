@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "toc.md",
+                "file": "Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "toc.md",
+                "file": "Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "toc.md",
+                "file": "Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "toc.md"
+                "file": "Data.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "042cfc2900f05c28",
   "lastOpenFiles": [
-    "Data.md",
     "toc.md",
+    "Data.md",
     "data_raw.png",
     "data.pdf",
     "Geometric Series.md",
