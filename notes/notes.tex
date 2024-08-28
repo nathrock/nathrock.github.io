@@ -1,0 +1,26 @@
+\documentclass[12pt]{article}
+
+\usepackage{graphicx}
+\usepackage[paperwidth=8.5in,left=1.0in,right=1.0in,top=1.0in,
+            bottom=1.0in,paperheight=11.0in,textheight=9in]{geometry}
+\usepackage{amssymb,amsmath,amsthm}
+\usepackage[breaklinks]{hyperref}
+\hypersetup{pdfdisplaydoctitle=true,
+            bookmarksnumbered=true,
+            colorlinks=true,
+            citecolor=black,
+            linkcolor=blue}
+\usepackage[smartEllipses]{markdown}
+
+% MATLAB out directory
+\makeatletter
+\def\outdir{../../MATLAB/data/out/}
+\def\input@path{\outdir}
+\graphicspath{\outdir}
+\makeatother
+
+\begin{document}
+
+\markdownInput{Introduction.md}
+
+\end{document} 
