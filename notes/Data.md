@@ -6,6 +6,7 @@ Back to [Table of Contents](toc.md)
 
 <p><img src="media/data_raw.png" style="width:20%"></p>
 
+<embed src="media/data_raw.pdf" type="application/pdf">
 
 
 
