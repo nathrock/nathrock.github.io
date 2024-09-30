@@ -5,7 +5,7 @@ with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) a
 
 1. **"[A Simple Explanation of Countercyclical Uncertainty](papers/BPRT-uncertainty.md)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332), [Mike Plante](https://sites.google.com/site/michaelplanteecon/), and [Alex Richter](http://www.alexrichterecon.com/)  
-<em>[AEJ: Macroeconomics](https://www.aeaweb.org/articles?id=10.1257/mac.20220134&&from=f)</em>, forthcoming
+<em>[AEJ: Macroeconomics](https://www.aeaweb.org/articles?id=10.1257/mac.20220134&&from=f)</em>, October 2024, Volume 16(4), Pages 143-171
 
 1. **"[Valuation Risk Revalued](papers/DRT_ValuationRisk.md)"**  
 with [Oliver de Groot](https://sites.google.com/site/oliverdegroot/) and [Alex Richter](http://www.alexrichterecon.com/)  
