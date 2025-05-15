@@ -1,6 +1,6 @@
 **"[The Matching Function and Nonlinear Business Cycles](BRT-nonlinearities.pdf)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
-<em>[Journal of Money, Credit and Banking](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.13115)</em>, forthcoming  
+<em>[Journal of Money, Credit and Banking](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.13115)</em>, March 2025, Volume 57(2-3), Pages 349-376  
 [FRB Dallas Working Paper 2201](https://doi.org/10.24149/wp2201), February 2022  
 [Online Appendix](BRT-nonlinearities-appendix.pdf)  
 
