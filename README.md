@@ -1,3 +1,6 @@
+**Courses**
+1. **[Time Series Econometrics](https://econ.pages.code.wm.edu/408/docs/)** (in Jupyter Notebooks with Python)
+
 **Published Papers**
 1. **"[The Matching Function and Nonlinear Business Cycles](papers/BRT-nonlinearities.md)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
