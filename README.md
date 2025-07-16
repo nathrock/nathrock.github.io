@@ -1,11 +1,9 @@
-**New Paper**
-- **"[Low Fertility and the Fiscal Limit: Inflation Possibilities in East Asia](papers/ST-low-fertility-inflation.md)"**  
+**"[Low Fertility and the Fiscal Limit: Inflation Possibilities in East Asia](papers/ST-low-fertility-inflation.md)"**  
 with [Hyunduk Suh](https://sites.google.com/site/suhhyuniu)  
-Working Paper, July 2025
+Working Paper, July 2025  
 
-**New Course**
-- **[Time Series Econometrics](https://econ.pages.code.wm.edu/408/docs/)** (in Jupyter Notebooks with Python)  
-Spring 2025
+**[Time Series Econometrics](https://econ.pages.code.wm.edu/408/docs/)** (in Jupyter Notebooks with Python)  
+Spring 2025  
 
 **Published Papers**
 1. **"[The Matching Function and Nonlinear Business Cycles](papers/BRT-nonlinearities.md)"**  
