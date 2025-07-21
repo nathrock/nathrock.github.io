@@ -2,7 +2,7 @@
 with [Hyunduk Suh](https://sites.google.com/site/suhhyuniu)  
 Working Paper, July 2025  
 
-**[Time Series Econometrics](https://econ.pages.code.wm.edu/408/docs/)** (in Jupyter Notebooks with Python)  
+**[Time Series Econometrics](https://nathrock.github.io/time-series)** (in Jupyter Notebooks with Python)  
 Spring 2025  
 
 **Published Papers**
