@@ -1,6 +1,7 @@
 **"[Low Fertility and the Fiscal Limit: Inflation Possibilities in East Asia](papers/ST-low-fertility-inflation.md)"**  
 with [Hyunduk Suh](https://sites.google.com/site/suhhyuniu)  
-Working Paper, July 2025  
+William & Mary Working Paper, July 2025  
+DOI: [https://doi.org/10.21220/GH09-1662](https://doi.org/10.21220/GH09-1662)  
 
 **[Time Series Econometrics](https://nathrock.github.io/time-series)** (in Jupyter Notebooks with Python)  
 Spring 2025  
