@@ -1,0 +1,29 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 77805a77-da81-496c-a9ec-605b78f0e76c
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  toc:
+    - file: info.md
+    - file: pubs.md
+    - file: wp.md
+    - file: courses.md
+site:
+  template: book-theme
+  title: Nathaniel A. Throckmorton, Ph.D.
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
+  # favicon and logo
+  options:
+    # replaces default "Made with MyST" at top of book
+    logo_text: "Nathaniel A. Throckmorton, Ph.D."
+    logo: w&m_full_color.png
+    hide_footer_links: true
+    hide_search: true
+    hide_title_block: true

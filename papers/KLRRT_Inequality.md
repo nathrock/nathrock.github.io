@@ -1,5 +1,0 @@
-**"[Income Inequality and Current Account Imbalances](KLRRT_Inequality.pdf)"**  
-with [Mike Kumhof](http://michaelkumhof.weebly.com/), [Claire Lebarz](https://www.linkedin.com/in/clairelebarz/), [Romain Ranciere](https://rranciere.academia.edu/), and [Alex Richter](http://www.alexrichterecon.com/)  
-[IMF Working Paper No. 12/8](http://www.imf.org/external/pubs/cat/longres.aspx?sk=25606.0), January 2012
-
-> Econometric evidence shows that when higher income inequality and financial liberalization are added to a set of conventional explanatory variables, they predict significantly larger current account deficits in a cross-section of advanced economies. To study this mechanism, we develop a DSGE model where investors' income share increases at the expense of workers, and where workers respond by obtaining loans from domestic and foreign investors. This supports aggregate demand but generates current account deficits, especially if domestic financial markets are simultaneously liberalized. In emerging markets, because domestic workers cannot borrow, investors deploy their surplus funds abroad, leading to current account surpluses.

@@ -1,5 +1,0 @@
-**"[Are Nonlinear Methods Necessary at the Zero Lower Bound?](RT_NonlinearMethods.pdf)"**  
-with [Alex Richter](http://www.alexrichterecon.com/)  
-[FRB Dallas Working Paper 1606](https://www.dallasfed.org/research/papers/2016/wp1606), November 2016
-
-> This paper examines the importance of using nonlinear methods to capture the zero lower bound (ZLB) on the Fed's policy rate. While it may seem obvious to impose the ZLB, <i>ex-ante</i> it is unclear how large of an effect the ZLB has on parameter estimates, since it was only hit once in recent history. The parameters and marginal likelihoods from a linear and nonlinear model are similar, but the linear model does not fit the data as well and predicts counterfactually large policy shocks when the Fed is constrained. A quasi-linear model performs better than a linear model but it still generates less volatility at the ZLB and is not as conducive to estimation. When we add a banking sector to create an interest rate spread, the ZLB is even more important.

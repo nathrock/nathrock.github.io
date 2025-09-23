@@ -1,8 +1,12 @@
+
+.DS_Store
+.DS_Store
 *.synctex
 *.aux
 *.bbl
 *.blg
 *.log
 *.out
+.DS_Store
 .DS_Store
 NT_CV.synctex.gz
