@@ -1,0 +1,8 @@
+a {
+  color: #003366;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #cc0000; /* hover color */
+}
