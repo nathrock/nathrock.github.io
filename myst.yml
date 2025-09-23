@@ -23,7 +23,7 @@ site:
   options:
     # replaces default "Made with MyST" at top of book
     logo_text: "Nathaniel A. Throckmorton, Ph.D."
-    logo: w&m_full_color.png
     hide_footer_links: true
     hide_search: true
     hide_title_block: true
+    style: ./my-style.css
