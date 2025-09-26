@@ -16,9 +16,6 @@ project:
 site:
   template: book-theme
   title: Nathaniel A. Throckmorton, Ph.D.
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
   # favicon and logo
   options:
     # replaces default "Made with MyST" at top of book
@@ -27,3 +24,5 @@ site:
     hide_search: true
     hide_title_block: true
     style: ./my-style.css
+    logo: 250926-initials2.png
+  #   favicon: favicon.ico
