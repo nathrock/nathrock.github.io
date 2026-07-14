@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="4in"
+   width="5in"
    height="2in"
-   viewBox="0 0 384 192"
+   viewBox="0 0 480 192"
    version="1.1"
    id="svg1"
    sodipodi:docname="initials_dark.svg"
@@ -78,8 +78,8 @@
      inkscape:label="Layer 2"
      transform="translate(-125.87381,-45.417287)">
     <path
-       style="font-weight:bold;font-size:411.323px;fill:#c8c8c8;fill-opacity:1;stroke:#ffffff;stroke-width:7.81826;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
-       d="m 474.65447,233.50815 h -50.77739 l -13.17396,-32.65457 h -70.60229 l -13.17401,32.65457 H 277.42848 L 347.77497,71.971183 h 56.533 z m -75.84631,-62.27148 -23.4062,-57.93199 -23.40619,57.93199 z"
+       style="font-weight:bold;font-size:411.323px;fill:#c8c8c8;fill-opacity:1;stroke:#ffffff;stroke-width:8.72125;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+       d="m 561.93289,233.05255 h -63.49641 l -16.47384,-32.49386 h -88.28717 l -16.4739,32.49386 h -61.89698 l 87.9673,-160.742014 h 70.6937 z m -94.84473,-61.96503 -29.26912,-57.6469 -29.26911,57.6469 z"
        id="text3"
        inkscape:label="text3"
        aria-label="A" />
@@ -90,8 +90,8 @@
      inkscape:label="Layer 3"
      transform="translate(-125.87381,-45.417289)">
     <path
-       style="font-weight:bold;font-size:401.86px;fill:#0f62fe;fill-opacity:1;stroke:#ffffff;stroke-width:7.81826;stroke-dasharray:none;stroke-opacity:1"
-       d="M 489.11093,84.920471 H 439.27881 L 503.90834,233.35238 H 462.75665 L 398.12715,84.920471 H 348.29504 L 332.79688,49.326479 h 140.81587 z"
+       style="font-weight:bold;font-size:401.86px;fill:#0f62fe;fill-opacity:1;stroke:#ffffff;stroke-width:8.72125;stroke-dasharray:none;stroke-opacity:1"
+       d="M 580.01048,85.196099 H 517.69614 L 598.51443,232.89755 H 547.05484 L 466.23656,85.196099 H 403.92222 L 384.542,49.777271 h 176.08823 z"
        id="text4"
        aria-label="T" />
   </g>
@@ -101,8 +101,8 @@
      id="layer1"
      transform="translate(-125.87381,-45.417287)">
     <path
-       style="font-weight:bold;font-size:417.116px;opacity:1;fill:#0f62fe;fill-opacity:1;stroke:#ffffff;stroke-width:7.81826;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       d="m 288.16537,233.35282 h -42.719 L 227.51779,107.04327 172.47768,233.35282 H 131.8369 L 212.0274,49.326477 h 52.99468 L 281.77653,154.74922 327.7151,49.326477 h 40.6408 z"
+       style="font-weight:bold;font-size:417.116px;opacity:1;fill:#0f62fe;fill-opacity:1;stroke:#ffffff;stroke-width:8.72125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 328.73093,232.89799 H 275.31141 L 252.89199,107.21002 184.06511,232.89799 H 133.24439 L 233.52148,49.777269 h 66.26909 l 20.9512,104.903951 57.44552,-104.903951 h 50.82074 z"
        id="text2"
        aria-label="N" />
     <text

@@ -15,7 +15,7 @@ project:
     - file: courses.md
 site:
   template: book-theme
-  title: Nathaniel A. Throckmorton, Ph.D.
+  title: Nathaniel A. Throckmorton
   # favicon and logo
   options:
     # replaces default "Made with MyST" at top of book
