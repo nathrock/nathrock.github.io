@@ -15,11 +15,11 @@ project:
     - file: courses.md
 site:
   template: book-theme
-  title: Nathaniel A. Throckmorton
+  title: Nathaniel A. Throckmorton, Ph.D.
   # favicon and logo
   options:
     # replaces default "Made with MyST" at top of book
-    logo_text: "Nathaniel A. Throckmorton, Ph.D."
+    logo_text: "Nathaniel A. Throckmorton"
     hide_footer_links: true
     hide_search: true
     hide_title_block: true
