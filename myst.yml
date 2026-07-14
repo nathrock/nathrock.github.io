@@ -24,5 +24,6 @@ site:
     hide_search: true
     hide_title_block: true
     style: ./my-style.css
-    logo: initials.svg
+    logo: initials_light.svg
+    logo_dark: initials_dark.svg
   #   favicon: favicon.ico
