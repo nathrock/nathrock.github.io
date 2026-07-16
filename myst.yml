@@ -23,4 +23,4 @@ site:
     style: ./my-style.css
     logo: initials_light.svg
     logo_dark: initials_dark.svg
-    favicon: favicon.svg
+    favicon: favicon.png

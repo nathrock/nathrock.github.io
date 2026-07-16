@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="2in"
-   height="2in"
-   viewBox="0 0 192 192"
+   width="0.33333334in"
+   height="0.33333334in"
+   viewBox="0 0 32.000001 32.000001"
    version="1.1"
    id="svg1"
    sodipodi:docname="favicon.svg"
    inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   inkscape:export-filename="favicon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,12 +25,12 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="in"
+     inkscape:document-units="px"
      showguides="true"
      showgrid="true"
-     inkscape:zoom="4.194243"
-     inkscape:cx="99.541205"
-     inkscape:cy="104.54807"
+     inkscape:zoom="25.79519"
+     inkscape:cx="19.635444"
+     inkscape:cy="18.860106"
      inkscape:window-width="2560"
      inkscape:window-height="1382"
      inkscape:window-x="0"
@@ -52,8 +55,8 @@
   <defs
      id="defs1">
     <rect
-       x="43.392813"
-       y="46.015455"
+       x="43.392815"
+       y="46.015453"
        width="103.47517"
        height="109.67414"
        id="rect2" />
@@ -84,11 +87,11 @@
      inkscape:label="Layer 2"
      transform="translate(-125.87381,-45.417287)">
     <circle
-       style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#0f62fe;stroke-width:1.97938;stroke-miterlimit:100;stroke-opacity:1"
+       style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#0f62fe;stroke-width:0.329897;stroke-miterlimit:100;stroke-opacity:1"
        id="path1-8"
-       cx="221.87381"
-       cy="141.41728"
-       r="95.010307" />
+       cx="141.87381"
+       cy="61.417286"
+       r="15.835051" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -102,15 +105,15 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:Serif;-inkscape-font-specification:Serif;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#0f62fe;stroke-width:2;stroke-miterlimit:100;stroke-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:157.951px;font-family:Serif;-inkscape-font-specification:Serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.99;fill:#1163fe;fill-opacity:1;stroke:#0f62fe;stroke-width:4.23081;stroke-miterlimit:100;stroke-opacity:1"
-       x="160.02625"
-       y="192.86455"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.3252px;font-family:Serif;-inkscape-font-specification:Serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.99;fill:#1163fe;fill-opacity:1;stroke:#0f62fe;stroke-width:0.705135;stroke-miterlimit:100;stroke-opacity:1"
+       x="131.56589"
+       y="69.991829"
        id="text3"><tspan
          sodipodi:role="line"
          id="tspan3"
-         x="160.02625"
-         y="192.86455"
-         style="fill:#1163fe;fill-opacity:1;stroke-width:4.23081">&amp;</tspan></text>
+         x="131.56589"
+         y="69.991829"
+         style="fill:#1163fe;fill-opacity:1;stroke-width:0.705135">&amp;</tspan></text>
   </g>
   <g
      inkscape:label="Layer 1"
