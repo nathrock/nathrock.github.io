@@ -1,8 +1,64 @@
-a {
-  color: #003366;
-  font-weight: bold;
+/* ---------- Theme Colors ---------- */
+
+:root {
+    --ibm-blue: #0f62fe;
+    --ibm-blue-dark: #4589ff;
+    --hover-blue: #7d8fa3;
+    --dropdown-light: #e8ecef;
+    --dropdown-dark: #31465a;
 }
 
-a:hover {
-  color: #cc0000; /* hover color */
+
+/* ---------- Sidebar ---------- */
+
+nav a {
+    color: var(--ibm-blue);
+}
+
+.dark nav a {
+    color: var(--ibm-blue-dark);
+}
+
+
+/* ---------- Hyperlinks ---------- */
+
+a,
+a:visited {
+    color: var(--ibm-blue) !important;
+    text-decoration: none !important;
+}
+
+/* Make DOI-generated links inherit the same color */
+a * {
+    color: inherit !important;
+}
+
+a:hover,
+a:hover * {
+    color: var(--hover-blue) !important;
+    text-decoration: none !important;
+}
+
+a:active,
+a:active * {
+    color: var(--ibm-blue-dark) !important;
+}
+
+
+/* ---------- Dropdowns ---------- */
+
+summary.myst-dropdown-header {
+    background-color: var(--dropdown-light);
+}
+
+.dark summary.myst-dropdown-header {
+    background-color: var(--dropdown-dark);
+}
+
+/* Standardize all hyperlinks in the main page content */
+main a {
+    font-family: inherit !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    letter-spacing: inherit !important;
 }
