@@ -1,0 +1,9 @@
+/* Left sidebar links */
+nav a {
+  color: #0f62fe;
+}
+
+/* Keep IBM blue in dark mode */
+.dark nav a {
+  color: #4589ff;
+}
