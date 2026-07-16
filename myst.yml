@@ -2,17 +2,14 @@
 version: 1
 project:
   id: 77805a77-da81-496c-a9ec-605b78f0e76c
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
-  # github:
-  # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: info.md
     - file: pubs.md
     - file: wp.md
     - file: courses.md
+  project:
+    bibliography:
+      - references.bib
 site:
   template: book-theme
   title: Nathaniel A. Throckmorton, Ph.D.
@@ -26,4 +23,4 @@ site:
     style: ./my-style.css
     logo: initials_light.svg
     logo_dark: initials_dark.svg
-  #   favicon: favicon.ico
+    favicon: favicon.svg
