@@ -1,7 +1,7 @@
 # Working Papers
 <br>
 
-1. **"[Low Fertility and the Fiscal Limit: Inflation Possibilities in East Asia](papers/ST-low-fertility-inflation.pdf)"**  
+1. **"[Low Fertility and the Fiscal Limit: Inflation Possibilities in East Asia](/ST-low-fertility-inflation.pdf)"**  
 with [Hyunduk Suh](https://sites.google.com/site/suhhyuniu)
 
 	- William & Mary Working Papers: {cite:t}`SuhThrockmorton2025WP`
@@ -11,7 +11,7 @@ with [Hyunduk Suh](https://sites.google.com/site/suhhyuniu)
 	:::
 
 
-1. **"[The Business Cycle Mechanics of Search and Matching Models](papers/BRT-RBC-Mechanics.pdf)"**  
+1. **"[The Business Cycle Mechanics of Search and Matching Models](/BRT-RBC-Mechanics.pdf)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)
 
 	- Dallas Fed Working Papers: {cite:t}`BernsteinEtAl2020WPb`
@@ -21,7 +21,7 @@ with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) a
 	:::
 
 
-1. **"[COVID-19: A View from the Labor Market](papers/BRT-covid19.pdf)"**  
+1. **"[COVID-19: A View from the Labor Market](/BRT-covid19.pdf)"**  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)
 
 	- Dallas Fed Working Papers: {cite:t}`BernsteinEtAl2020WPa`
@@ -31,7 +31,7 @@ with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) a
 	:::
 
 
-1. **"[A New Way to Quantify the Effect of Uncertainty](papers/RT_macro_uncertainty.pdf)"**  
+1. **"[A New Way to Quantify the Effect of Uncertainty](/RT_macro_uncertainty.pdf)"**  
 with [Alex Richter](http://www.alexrichterecon.com/)
 
 	- Dallas Fed Working Papers: {cite:t}`RichterThrockmorton2018WP`
@@ -41,7 +41,7 @@ with [Alex Richter](http://www.alexrichterecon.com/)
 	:::
 
 
-1. **"[Are Nonlinear Methods Necessary at the Zero Lower Bound?](papers/RT_NonlinearMethods.pdf)"**  
+1. **"[Are Nonlinear Methods Necessary at the Zero Lower Bound?](/RT_NonlinearMethods.pdf)"**  
 with [Alex Richter](http://www.alexrichterecon.com/)  
 
 	- Dallas Fed Working Papers: {cite:t}`RichterThrockmorton2016WP`
@@ -51,7 +51,7 @@ with [Alex Richter](http://www.alexrichterecon.com/)
 	:::
 
 
-1. **"[Income Inequality and Current Account Imbalances](papers/KLRRT_Inequality.pdf)"**  
+1. **"[Income Inequality and Current Account Imbalances](/KLRRT_Inequality.pdf)"**  
 with [Mike Kumhof](http://michaelkumhof.weebly.com/), [Claire Lebarz](https://www.linkedin.com/in/clairelebarz/), [Romain Ranciere](https://rranciere.academia.edu/), and [Alex Richter](http://www.alexrichterecon.com/)
 
 	- IMF Working Paper: {cite:t}`RanciereEtAl2012`

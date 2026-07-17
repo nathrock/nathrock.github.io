@@ -31,6 +31,12 @@ project:
     - papers/GKRT_ZLB.pdf
     - papers/RT_ZLBconvergence.pdf
     - papers/RTW_Numerical.pdf
+    - papers/ST-low-fertility-inflation.pdf
+    - papers/BRT-RBC-Mechanics.pdf
+    - papers/BRT-covid19.pdf
+    - papers/RT_macro_uncertainty.pdf
+    - papers/RT_NonlinearMethods.pdf
+    - papers/KLRRT_Inequality.pdf
 site:
   template: book-theme
   title: Nathaniel A. Throckmorton, Ph.D.
