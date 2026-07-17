@@ -1,41 +1,41 @@
 # Publications
 <br>
 
-1. "[The Matching Function and Nonlinear Business Cycles](papers/BRT-nonlinearities.pdf)"  
+1. "[The Matching Function and Nonlinear Business Cycles](/BRT-nonlinearities.pdf)"  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)
 
 	- *Journal of Money, Credit and Banking*: {cite:t}`BersteinEtAl2025`
 	- Dallas Fed Working Papers: {cite:t}`BersteinEtAl2022WP`
-	- [Online Appendix](papers/BRT-nonlinearities-appendix.pdf)
+	- [Online Appendix](/BRT-nonlinearities-appendix.pdf)
 
 	:::{dropdown} Abstract
 	The Cobb-Douglas matching function is ubiquitous in labor search and matching models, even though it imposes a constant matching elasticity that is unlikely to hold empirically. To examine the implications of this discrepancy, this paper uses a general constant returns to scale matching function to derive conditions that show how the cyclicality of the matching elasticity affects the shape of the job finding rate as a function of productivity and amplifies or dampens nonlinear labor market dynamics. It then shows that modest variation in the matching elasticity, consistent with recent estimates, significantly affects higher-order moments and optimal policy. This motivates research that can provide greater clarity on the matching function specification. 
 	:::
 
-1. "[A Simple Explanation of Countercyclical Uncertainty](papers/BPRT-uncertainty.pdf)"  
+1. "[A Simple Explanation of Countercyclical Uncertainty](/BPRT-uncertainty.pdf)"  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332), [Mike Plante](https://sites.google.com/site/michaelplanteecon/), and [Alex Richter](http://www.alexrichterecon.com/)  
 
 	- *AEJ: Macroeconomics*: {cite:t}`BernsteinEtAl2024`
 	- Dallas Fed Working Papers: {cite:t}`BernsteinEtAl2021WP`
-	- [Online Appendix](papers/BPRT-uncertainty-appendix.pdf) 
+	- [Online Appendix](/BPRT-uncertainty-appendix.pdf) 
 	- [Data and Code](https://www.openicpsr.org/openicpsr/project/184121/version/V1/view)
 
 	:::{dropdown} Abstract
 	This paper documents that labor search and matching frictions generate countercyclical uncertainty because the inherent nonlinearity in the flow of new matches makes employment uncertainty increasing in the number of people searching for work. Quantitatively, this mechanism is strong enough to explain uncertainty and real activity dynamics, including their correlation. Through this lens, uncertainty fluctuations are endogenous responses to changes in real activity that neither affect the severity of business cycles nor warrant policy intervention, in contrast with leading theories of the interaction between uncertainty and real activity dynamics.
 	:::
 
-1. "[Valuation Risk Revalued](papers/DRT_ValuationRisk.pdf)"  
+1. "[Valuation Risk Revalued](/DRT_ValuationRisk.pdf)"  
 with [Oliver de Groot](https://sites.google.com/site/oliverdegroot/) and [Alex Richter](http://www.alexrichterecon.com/)  
 
 	- *Quantitative Economics*: {cite:t}`deGrootEtAl2022`
 	- Dallas Fed Working Papers: {cite:t}`deGrootEtAl2019WP`
-	- [Online Appendix](papers/DRT_ValuationRisk_OnlineAppendix.pdf)
+	- [Online Appendix](/DRT_ValuationRisk_OnlineAppendix.pdf)
 
 	:::{dropdown} Abstract
 	This paper shows the success of valuation risk—time-preference shocks in Epstein-Zin utility in resolving asset pricing puzzles rests sensitively on the way it is introduced. The specification used in the literature violates several desirable properties of recursive preferences because the weights in the Epstein-Zin time-aggregator do not sum to one. When we revise the specification in a simple asset pricing model the puzzles resurface. However, when estimating a sequence of increasingly rich models, we find valuation risk under the revised specification consistently improves the ability of the models to match asset price and cash-flow dynamics.
 	:::
 
-1. "[Complementarity and Macroeconomic Uncertainty](papers/APRT_CES.pdf)"  
+1. "[Complementarity and Macroeconomic Uncertainty](/APRT_CES.pdf)"  
 with [Tyler Atkinson](https://www.dallasfed.org/research/economists/atkinson.aspx), [Mike Plante](https://sites.google.com/site/michaelplanteecon/), and [Alex Richter](http://www.alexrichterecon.com/)
 
 	- *Review of Economic Dynamics*: {cite:t}`AtkinsonEtAl2022`
@@ -46,7 +46,7 @@ with [Tyler Atkinson](https://www.dallasfed.org/research/economists/atkinson.asp
 	Macroeconomic uncertainty regularly fluctuates in the data. Theory suggests complementarity between capital and labor inputs in production can generate time-varying endogenous uncertainty because the concavity in the production function influences how output responds to productivity shocks in different states of the economy. This paper examines whether complementarity is a quantitatively significant source of time-varying endogenous uncertainty by estimating a nonlinear real business cycle model with a constant elasticity of substitution production function and exogenous volatility shocks. When matching labor share and uncertainty moments, we find at most 16% of the volatility of uncertainty is endogenous. An estimated model without exogenous volatility shocks can endogenously generate all of the empirical variation in uncertainty, but only at the expense of significantly overstating the volatility of the labor share.
 	:::
 
-1. "[Cyclical Net Entry and Exit](papers/BRT_EntryExit.pdf)"  
+1. "[Cyclical Net Entry and Exit](/BRT_EntryExit.pdf)"  
 with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) and [Alex Richter](http://www.alexrichterecon.com/)  
 
 	- *European Economic Review*: {cite:t}`BernsteinEtAl2021`
@@ -56,40 +56,40 @@ with [Joshua Bernstein](https://www.linkedin.com/in/joshua-bernstein-47baa332) a
 	This paper examines how the interplay between cyclical net entry and exit of firms and search and matching frictions affect business cycle dynamics. We show cyclical net entry and exit reallocates inputs across firms and destroys jobs in recessions, which amplifies and skews business cycle dynamics. The model matches the volatility and skewness of real activity, the fast rise and slow decline in unemployment that occurs in recessions, and the counter-cyclical variation in macroeconomic uncertainty. Cyclical net entry and exit generates a 20% increase in volatility, 40% increase in skewness, and 55% increase in the welfare cost of business cycles.
 	:::
 
-1. "[The Zero Lower Bound and Estimation Accuracy](papers/ART_Estimation.pdf)"  
+1. "[The Zero Lower Bound and Estimation Accuracy](/ART_Estimation.pdf)"  
 with [Tyler Atkinson](https://www.dallasfed.org/research/economists/atkinson.aspx) and [Alex Richter](http://www.alexrichterecon.com/)
 
 	- *Journal of Monetary Economics*: {cite:t}`AtkinsonEtAl2020`
 	- Dallas Fed Working Papers: {cite:t}`AtkinsonEtAl2019`
-	- [Online Appendix](papers/ART_Estimation_WebAppendix.pdf)
+	- [Online Appendix](/ART_Estimation_WebAppendix.pdf)
 
 	:::{dropdown} Abstract
 	During the Great Recession, central banks lowered their policy rate to the zero lower bound (ZLB), calling into question linear estimation methods. There are two alternatives: estimate a nonlinear model that accounts for precautionary savings effects of the ZLB or a piecewise linear model that is faster but ignores the precautionary savings effects. This paper compares their accuracy using artificial datasets. The predictions of the nonlinear model are typically more accurate than the piecewise linear model, but the differences are usually small. There are far larger gains in accuracy from estimating a richer, less misspecified piecewise linear model.
 	:::
 
-1. "[Uncertainty Shocks in a Model of Effective Demand: Comment](papers/DRT_comment.pdf)"  
+1. "[Uncertainty Shocks in a Model of Effective Demand: Comment](/DRT_comment.pdf)"  
 with [Oliver de Groot](https://sites.google.com/site/oliverdegroot/) and [Alex Richter](http://www.alexrichterecon.com/)
 
 	- *Econometrica*: {cite:t}`deGrootEtAl2018`
 	- Dallas Fed Working Papers: {cite:t}`deGrootEtAl2017WP`
-	- [Online Appendix](papers/DRT_comment_appendix.pdf)
+	- [Online Appendix](/DRT_comment_appendix.pdf)
 
 	:::{dropdown} Abstract
 	Basu and Bundick (2017) show an intertemporal preference volatility shock has meaningful effects on real activity in a New Keynesian model with Epstein and Zin (1991) preferences. We show when the distributional weights on current and future utility in the Epstein-Zin time-aggregator do not sum to 1, there is an asymptote in the responses to such a shock with unit intertemporal elasticity of substitution. In the Basu-Bundick model, the intertemporal elasticity of substitution is set near unity and the preference shock only hits current utility, so the sum of the weights differs from 1. We show when we restrict the weights to sum to 1, the asymptote disappears and preference volatility shocks no longer have large effects. We examine several different calibrations and preferences as potential resolutions with varying degrees of success.
 	:::
 
-1. "[The Zero Lower Bound and Endogenous Uncertainty](papers/PRT_Uncertainty.pdf)"  
+1. "[The Zero Lower Bound and Endogenous Uncertainty](/PRT_Uncertainty.pdf)"  
 with [Mike Plante](https://sites.google.com/site/michaelplanteecon/), and [Alex Richter](http://www.alexrichterecon.com/)
 
 	- *Economic Journal*: {cite:t}`PlanteEtAl2018`
 	- Dallas Fed Working Papers: {cite:t}`PlanteEtAl2014WP`
-	- [Online Appendix](papers/PRT_Uncertainty_WebAppendix.pdf)
+	- [Online Appendix](/PRT_Uncertainty_WebAppendix.pdf)
 
 	:::{dropdown} Abstract
 	This paper examines the correlation between uncertainty and real GDP growth. We use the volatility of real GDP growth from a VAR, stock market volatility, survey-based forecast dispersion, and the index from Jurado et al. (2015) as proxies for uncertainty. In each case, a stronger negative correlation emerged in 2008. We contend the zero lower bound (ZLB) on the federal funds rate contributed to our finding. To test our theory, we estimate a New Keynesian model with a ZLB constraint to generate a data-driven, forward-looking uncertainty measure. The correlations between that measure and real GDP growth are close to the values in the data.
 	:::
 
-1. "[Forward Guidance and the State of the Economy](papers/KRT_Forward_Guidance.pdf)"  
+1. "[Forward Guidance and the State of the Economy](/KRT_Forward_Guidance.pdf)"  
 with [Benjamin Keen](http://benjaminkeen.oucreate.com/) and [Alex Richter](http://www.alexrichterecon.com/)
 
 	- *Economic Inquiry*: {cite:t}`KeenEtAl2017`
@@ -99,7 +99,7 @@ with [Benjamin Keen](http://benjaminkeen.oucreate.com/) and [Alex Richter](http:
 	This paper analyzes forward guidance in a nonlinear model with a zero lower bound (ZLB) on the nominal interest rate. Forward guidance is modeled with news shocks to the monetary policy rule, which capture innovations in expectations from central bank communication about future policy rates. Whereas most studies use quasi-linear models that disregard the expectational effects of hitting the ZLB, we show how the effectiveness of forward guidance nonlinearly depends on the state of the economy, the speed of the recovery, the degree of uncertainty, the policy shock size, and the forward guidance horizon when households account for the ZLB.
 	:::
 
-1. "[Is Rotemberg Pricing Justified by Macro Data?](papers/RT_Pricing_Comparison.pdf)"  
+1. "[Is Rotemberg Pricing Justified by Macro Data?](/RT_Pricing_Comparison.pdf)"  
 with [Alex Richter](http://www.alexrichterecon.com/)
 
 	- *Economics Letters*: {cite:t}`RichterThrockmorton2016`
@@ -108,7 +108,7 @@ with [Alex Richter](http://www.alexrichterecon.com/)
 	Structural models used to study monetary policy often include sticky prices. Calvo pricing is more common but Rotemberg pricing has become popular due to its computational advantage. To determine whether the data supports that change, we estimate a nonlinear New Keynesian model with a zero lower bound (ZLB) constraint and each type of sticky prices. The models produce similar parameter estimates and the filtered shocks are nearly identical when the Fed was  not constrained, but the Rotemberg model has a higher marginal data density and it endogenously generates more volatility at the ZLB, which helps explain data from 2008-2011.
 	:::
 
-1. "[The Consequences of an Unknown Debt Target](papers/RT_debttargets.pdf)"  
+1. "[The Consequences of an Unknown Debt Target](/RT_debttargets.pdf)"  
 with [Alex Richter](http://www.alexrichterecon.com/)
 
 	- *European Economic Review*: {cite:t}`RichterThrockmorton2015b`
@@ -117,7 +117,7 @@ with [Alex Richter](http://www.alexrichterecon.com/)
 	Several proposals to reduce U.S. debt reveal large differences in their targets. We examine how an unknown debt target affects economic activity using a real business cycle model in which Bayesian households learn about a state-dependent debt target in an endogenous tax rule. Recent papers use stochastic volatility shocks to study fiscal uncertainty. In our setup, the fiscal rule is time-varying due to unknown changes in the debt target. Households infer the current debt target from a noisy tax rule and jointly estimate the transition probabilities. Three key findings emerge from our analysis: (1) Limited information about the debt target amplifies the effect of tax shocks through changes in expected tax rates; (2) The welfare losses are an order of magnitude larger when both the debt target state and transition matrix are unknown than when only the debt target state is unknown to households; (3) An unknown debt target likely reduced the stimulative effect of the ARRA and uncertainty about the sunset provision in the Bush tax cuts may have slowed the recovery and led to welfare losses.
 	:::
 
-1. "[The Zero Lower Bound, the Dual Mandate, and Unconventional Dynamics](papers/GKRT_ZLB.pdf)"  
+1. "[The Zero Lower Bound, the Dual Mandate, and Unconventional Dynamics](/GKRT_ZLB.pdf)"  
 with [William Gavin](https://research.stlouisfed.org/econ/gavin/jp/), [Benjamin Keen](http://benjaminkeen.oucreate.com/) and [Alex Richter](http://www.alexrichterecon.com/)  
 
 	- *Journal of Economic Dynamics and Control*: {cite:t}`GavinEtAl2015`
@@ -126,7 +126,7 @@ with [William Gavin](https://research.stlouisfed.org/econ/gavin/jp/), [Benjamin 
 	This article examines monetary policy when it is constrained by the zero lower bound (ZLB) on the nominal interest rate. Our analysis uses a nonlinear New Keynesian model with technology and discount factor shocks. Specifically, we investigate why technology shocks may have unconventional effects at the ZLB, what factors affect the likelihood of hitting the ZLB, and the implications of alternative monetary policy rules. We initially focus on a New Keynesian model without capital (Model 1) and then study that model with capital (Model 2). The advantage of including capital is that it introduces another mechanism for intertemporal substitution that strengthens the expectational effects of the ZLB. Four main findings emerge: (1) In Model 1, the choice of output target in the Taylor rule may reverse the effects of technology shocks when the ZLB binds; (2) When the central bank targets steady-state output in Model 2, a positive technology shock at the ZLB leads to more pronounced unconventional dynamics than in Model 1; (3) The presence of capital changes the qualitative effects of demand shocks and alters the impact of a monetary policy rule that emphasizes output stability; and (4) In Model 1, the constrained linear solution is a decent approximation of the nonlinear solution, but meaningful differences exist between the solutions in Model 2.
 	:::
 
-1. "[The Zero Lower Bound: Frequency, Duration, and Numerical Convergence](papers/RT_ZLBconvergence.pdf)"  
+1. "[The Zero Lower Bound: Frequency, Duration, and Numerical Convergence](/RT_ZLBconvergence.pdf)"  
 with [Alex Richter](http://www.alexrichterecon.com/)
 
 	- *The B.E. Journal of Macroeconomics*: {cite:t}`RichterThrockmorton2015a`
@@ -135,7 +135,7 @@ with [Alex Richter](http://www.alexrichterecon.com/)
 	When monetary policy faces a zero lower bound (ZLB) constraint on the nominal interest rate, a minimum state variable (MSV) solution may not exist even if the Taylor principle holds when the ZLB does not bind. This paper shows there is a clear tradeoff between the expected frequency and average duration of ZLB events along the boundary of the convergence region&mdash;the region of the parameter space where our policy function iteration algorithm converges to an MSV solution. We show this tradeoff with two alternative stochastic processes: one where monetary policy follows a 2-state Markov chain, which exogenously governs whether the ZLB binds, and the other where ZLB events are endogenous due to discount factor or technology shocks. We also show that small changes in the parameters of the stochastic processes cause meaningful differences in the decision rules and where the ZLB binds in the state space.
 	:::
 
-1. "[Accuracy, Speed and Robustness of Policy Function Iteration](papers/RTW_Numerical.pdf)"  
+1. "[Accuracy, Speed and Robustness of Policy Function Iteration](/RTW_Numerical.pdf)"  
 with [Alex Richter](http://www.alexrichterecon.com/) and [Todd Walker](https://economics.indiana.edu/about/faculty/walker-todd.html)
 
 	- *Computational Economics*: {cite:t}`RichterThrockmorton2013`

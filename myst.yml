@@ -7,9 +7,30 @@ project:
     - file: pubs.md
     - file: wp.md
     - file: courses.md
-  project:
-    bibliography:
-      - references.bib
+#    - file: test.md
+  bibliography:
+    - references.bib
+  static_files:
+    - papers/BRT-nonlinearities.pdf
+    - papers/BRT-nonlinearities-appendix.pdf
+    - papers/BPRT-uncertainty.pdf
+    - papers/BPRT-uncertainty-appendix.pdf
+    - papers/DRT_ValuationRisk.pdf
+    - papers/DRT_ValuationRisk_OnlineAppendix.pdf
+    - papers/APRT_CES.pdf
+    - papers/BRT_EntryExit.pdf
+    - papers/ART_Estimation.pdf
+    - papers/ART_Estimation_WebAppendix.pdf
+    - papers/DRT_comment.pdf
+    - papers/DRT_comment_appendix.pdf
+    - papers/PRT_Uncertainty.pdf
+    - papers/PRT_Uncertainty_WebAppendix.pdf
+    - papers/KRT_Forward_Guidance.pdf
+    - papers/RT_Pricing_Comparison.pdf
+    - papers/RT_debttargets.pdf
+    - papers/GKRT_ZLB.pdf
+    - papers/RT_ZLBconvergence.pdf
+    - papers/RTW_Numerical.pdf
 site:
   template: book-theme
   title: Nathaniel A. Throckmorton, Ph.D.
