@@ -62,3 +62,41 @@ main a {
     font-weight: 500 !important;
     letter-spacing: inherit !important;
 }
+
+
+/* ---------- Tables ---------- */
+
+table.research {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+table.research th.title {
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+table.research th.subtitle {
+    font-size: 0.7rem;
+    font-weight: bold;
+}
+
+table.research th,
+table.research td {
+    font-size: 0.6rem;
+    border: 1px solid #000;
+    padding: 2px 8px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+table.research td.no-top,
+table.research th.no-top {
+    border-top: 1px solid transparent;
+}
+
+table.research td.no-bottom,
+table.research th.no-bottom {
+    border-bottom: 1px solid transparent;
+}

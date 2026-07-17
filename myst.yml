@@ -7,7 +7,7 @@ project:
     - file: pubs.md
     - file: wp.md
     - file: courses.md
-#    - file: test.md
+    - file: map.md
   bibliography:
     - references.bib
   static_files:
