@@ -100,3 +100,28 @@ table.research td.no-bottom,
 table.research th.no-bottom {
     border-bottom: 1px solid transparent;
 }
+
+/* ---------- Profile ---------- */
+.profile {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.profile-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
+.profile-image img {
+    width: 5em;
+    height: 5em;
+}
+
+.profile-info {
+    line-height: 1.5;
+}
+
+.profile-links {
+    text-align: center;
+}
